@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .product {
+    width: 50%;
+  }
+}
